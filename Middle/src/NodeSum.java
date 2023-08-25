@@ -6,7 +6,6 @@
  * 请你将两个数相加，并以相同形式返回一个表示和的链表。
  */
 
-import com.sun.org.apache.regexp.internal.RE;
 
 /**
  * Definition for singly-linked list.
